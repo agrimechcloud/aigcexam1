@@ -1,0 +1,2 @@
+# aigcexam1
+用cursor写小游戏代码并利用git推送至github
